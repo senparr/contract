@@ -19,7 +19,7 @@
 					},
 					{
 						"internalType": "uint256",
-						"name": "maxSupply_",
+						"name": "maxSupplyTokens",
 						"type": "uint256"
 					}
 				],
@@ -312,7 +312,7 @@
 					},
 					{
 						"internalType": "uint256",
-						"name": "amount",
+						"name": "amountTokens",
 						"type": "uint256"
 					}
 				],
@@ -590,7 +590,7 @@
 			"bytecodeHash": "ipfs"
 		},
 		"optimizer": {
-			"enabled": false,
+			"enabled": true,
 			"runs": 200
 		},
 		"remappings": []
@@ -645,11 +645,11 @@
 			]
 		},
 		"mytoken.sol": {
-			"keccak256": "0xb4eccb51d4353e5ad39ee1ddd162f122b5f0089649118dc438133306ed96b03a",
+			"keccak256": "0x9fdde463469e704ad5b2e35f7e39c90e3cc2823035d26248fd48a23f6250d769",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://350177bfd6ed9101c0f68ac4cb8a09413e26e5470c516d401f4a0006fed20733",
-				"dweb:/ipfs/QmYRHCqRxfkterp9C1qGwyoqFQR8iwy591TYcub3hUVCuk"
+				"bzz-raw://6b8b4eb82363109153f869cc57238c8eadeab9245e88a0a5c1ae487f24563fc0",
+				"dweb:/ipfs/QmVSBCFSZawGWZovPJhBgeo4s6qG4PHSCfza8rJAnfxAKD"
 			]
 		}
 	},
